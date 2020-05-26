@@ -13,7 +13,7 @@ function App() {
 
             <div className="container">
 
-                <Aside/> {/*Aside2*/}
+                <Aside/> {/*Aside3*/}
 
              <Content/> {/*Container*/}
 
