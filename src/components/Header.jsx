@@ -1,0 +1,14 @@
+import React from "react";
+const Header = () => {
+    return (
+
+        <header className='header'>
+            <div className="logo">
+                <img src="http://horizonmix.ru/wp-content/uploads/2020/04/logo_1.png" alt=""/>
+            </div>
+
+        </header>
+    )
+}
+
+export default Header;
