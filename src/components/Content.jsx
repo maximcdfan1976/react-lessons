@@ -14,9 +14,9 @@ const Content = () => {
                 <div className="user__info">
                     <div className="user__info__inner">
                         <ul>
-                            <li>Date Of Birth:</li>
-                            <li>Date Of Birth:</li>
-                            <li>Date Of Birth:</li>
+                            <li>Date Of Birth2:</li>
+                            <li>Date Of Birth2:</li>
+                            <li>Date Of Birth3:</li>
                         </ul>
 
                     </div>
