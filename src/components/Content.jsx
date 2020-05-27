@@ -53,7 +53,7 @@ const Content = () => {
                 </div>
 
                 <div className="love__title">
-                    <h3>It's Our New Programd</h3>
+                    <h3>It's Our New Programed</h3>
                 </div>
 
 
