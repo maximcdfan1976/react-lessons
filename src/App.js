@@ -9,13 +9,12 @@ function App() {
 
         <div className='app-wrapper'>
 
-            <Header/>  {/*Header*/}
+            <Header/>
 
             <div className="container">
+                <Aside/>
 
-                <Aside/> {/*Aside323*/}
-
-             <Content/> {/*Container*/}
+             <Content/>
 
             </div>
 

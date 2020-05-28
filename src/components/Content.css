@@ -1,0 +1,43 @@
+.content {
+    width: 100%;
+    background-color: #d7d7d7;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+}
+
+.big__pic{
+    max-width: 500px;
+    width: 100%;
+}
+
+.user__block{
+    display: flex;
+
+}
+
+.user__avatar img{
+    width: 100px;
+
+}
+
+.post__field input{
+    width: 40%;
+    height: 50px;
+    background-color: #ffffff;
+
+}
+
+button{
+    margin-bottom: 20px;
+}
+
+.love__me{
+    display: flex;
+    align-content: center;
+}
+
+.love__me__pic img{
+    margin-right: 5px;
+    width: 50px;
+}
