@@ -5,5 +5,9 @@ aside {
     padding: 10px;
     background-color: #d7d7d7;
     margin: 10px;
-
 }
+
+.link a{
+    color: aqua;
+}
+
