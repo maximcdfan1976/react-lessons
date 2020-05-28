@@ -8,7 +8,7 @@ const Aside = () => {
                 <div><a href="#">Home1</a></div>
                 <div><a href="#">Messages</a></div>
                 <div><a href="#">Music</a></div>
-                <div><a href="#">News</a></div>
+                <div><a href="#">News1</a></div>
 
 
             </nav>
