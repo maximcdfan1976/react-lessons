@@ -1,10 +1,10 @@
 import React from "react";
-import './Header.css'
+import HeaderCss from './Header.module.css'
 const Header = () => {
     return (
 
-        <header className='header'>
-            <div className="logo">
+        <header className={HeaderCss.header}>
+            <div className={HeaderCss.logo}>
                 <img src="http://horizonmix.ru/wp-content/uploads/2020/04/logo_1.png" alt=""/>
             </div>
 
